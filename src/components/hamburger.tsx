@@ -31,7 +31,7 @@ export function SheetSide() {
             <ul className="flex flex-col text-sm md:text-base gap-2">
                <li> <Link href={"/"}>Home </Link></li>
                <li> <Link href={"/about"}>About </Link></li>
-               <li> <Link href={"/articles"}>Articles </Link></li>
+               <li> <Link href={"/article"}>Articles </Link></li>
                <li> <Link href={"/contact"}>Contact us </Link></li>
             </ul>
          </div>
